@@ -19,3 +19,22 @@ Su organización está creando un nuevo entorno de laboratorio para las pruebas 
 
 ## Diagrama de Arquitectura
 ![az104-lab01-architecture](https://github.com/user-attachments/assets/e318f7e5-8ab9-4a8a-8431-c405d074bcac)
+
+## Habilidades
+
++ Tarea 1: Crear y configurar cuentas de usuarios.
++ Tarea 2: Crear grupos y agregar miembros.
+
+## Tarea 1: Crear y configurar cuentas de usuarios
+
+En esta tarea, creará y configurará cuentas de usuario. Las cuentas de usuario almacenarán datos de usuario como nombre, departamento, ubicación e información de contacto.
+
+1. Ingresar al **Portal de Azure** - `https://portal.azure.com`.
+2. Busca y selecciona `Microsoft Entra ID`. Microsoft Entra ID es la soluciónIdentidad y acceso basada en nube de Azure.
+   <img width="548" alt="01" src="https://github.com/user-attachments/assets/5ff62800-bc39-4c9b-a22c-54f90806ef9d">
+
+## Crear un nuevo usuario
+
+1. Selecciona **Usuarios**, Luego, en el menú desplegable **Nuevo Usuario** selecciona **Crear un usuario nuevo**.
+   <img width="259" alt="02" src="https://github.com/user-attachments/assets/4022d37a-2db0-4f79-ac08-88cbe4729f2d">
+
