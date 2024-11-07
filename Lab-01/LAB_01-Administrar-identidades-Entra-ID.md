@@ -18,5 +18,4 @@ Su organización está creando un nuevo entorno de laboratorio para las pruebas 
 
 
 ## Diagrama de Arquitectura
-
-![Diagram of the lab 01 architecture.](../media/az104-lab01-architecture.png)
+![az104-lab01-architecture](https://github.com/user-attachments/assets/e318f7e5-8ab9-4a8a-8431-c405d074bcac)
