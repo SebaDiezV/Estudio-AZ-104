@@ -13,7 +13,7 @@ En este laboratorio, aprenderá a implementar los planes de gobernanza de su org
 
 Su organización ha crecido considerablemente en la nube en el último año. Durante una auditoría reciente, descubrió un número sustancial de recursos que no tienen un propietario, un proyecto o un centro de costos definidos. Para mejorar la administración de los recursos de Azure en su organización, decide implementar la siguiente funcionalidad:
 
-- aplicar etiquetas de recursos para adjuntar metadatos importantes a los recursos de Azure
+- Aplicar etiquetas de recursos para adjuntar metadatos importantes a los recursos de Azure
 
 - Exigir el uso de etiquetas de recursos para nuevos recursos mediante Azure Policy
 
