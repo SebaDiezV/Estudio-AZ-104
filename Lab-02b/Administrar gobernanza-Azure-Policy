@@ -1,0 +1,24 @@
+---
+lab:
+    título: 'Lab 02b: Administrar gobernanza via Azure Policy'
+    módulo: 'Administrar la gobernanza y el cumplimiento'
+---
+# Lab 02b - Administrar gobernanza via Azure Policy
+
+## Introduccion
+
+En este laboratorio, aprenderá a implementar los planes de gobernanza de su organización. Aprenderá cómo las directivas de Azure pueden garantizar que las decisiones operativas se apliquen en toda la organización. Aprenderá a utilizar el etiquetado de recursos para mejorar los informes.
+
+## Escenario
+
+Su organización ha crecido considerablemente en la nube en el último año. Durante una auditoría reciente, descubrió un número sustancial de recursos que no tienen un propietario, un proyecto o un centro de costos definidos. Para mejorar la administración de los recursos de Azure en su organización, decide implementar la siguiente funcionalidad:
+
+- aplicar etiquetas de recursos para adjuntar metadatos importantes a los recursos de Azure
+
+- Exigir el uso de etiquetas de recursos para nuevos recursos mediante Azure Policy
+
+- Actualizar los recursos existentes con etiquetas de recursos
+
+- Usar bloqueos de recursos para proteger los recursos configurados
+
+## Diagrama de arquitectura
